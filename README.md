@@ -19,6 +19,18 @@ To build and evaluate machine learning models that can accurately predict diabet
 - Matplotlib, Seaborn
 - Scikit-learn
 - Jupyter Notebook
+## 🧪 How to Run This Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Ethan2417/Pima-Indians-Diabetes-Prediction.git
+
+##Install required libraries:
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+##Open the Jupyter Notebook:
+jupyter notebook notebooks/pima_diabetes_analysis.ipynb
+
 
 ## 🔍 Data Preprocessing
 - Replaced medically invalid zero values with median imputation
