@@ -65,3 +65,13 @@ Logistic Regression and LDA models were evaluated, and the best model was select
 - Handle class imbalance
 
 ## 📂 Project Structure
+
+Pima-Indians-Diabetes-Prediction/
+├── data/
+│   └── pima_diabetes.csv
+├── notebooks/
+│   └── pima_diabetes_analysis.ipynb
+├── images/
+│   └── (plots and visualizations)
+└── README.md
+
