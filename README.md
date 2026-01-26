@@ -7,7 +7,9 @@ This project focuses on predicting whether a patient has diabetes based on diagn
 To build and evaluate machine learning models that can accurately predict diabetes outcomes.
 
 ## 📊 Dataset
-- Source: Pima Indians Diabetes Dataset
+- Name: Pima Indians Diabetes Dataset
+- Source: Kaggle
+- https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 - Records: 768
 - Features: 8 medical attributes + 1 target variable
 
