@@ -59,11 +59,6 @@ Logistic Regression and LDA models were evaluated, and the best model was select
 - Model evaluation using ROC–AUC
 - Comparing linear classification models
 
-## Future Improvements
-- Hyperparameter tuning
-- Try tree-based models
-- Handle class imbalance
-
 ## Project Structure
 
 Pima-Indians-Diabetes-Prediction/
